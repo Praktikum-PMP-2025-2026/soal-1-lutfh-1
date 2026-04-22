@@ -31,7 +31,7 @@ void SUM(int arr[], int n, int *tot) {
 int main() {
     int n;
     scanf("%d", &n);
-    int arr[n]; dan
+    int arr[n];
     int mx, indeks, total;
     float r2;
     
